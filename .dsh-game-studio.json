@@ -1,0 +1,16 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "game-studio-demo": {
+      "slug": "game-studio-demo",
+      "title": "月光狐狸：灯笼岛",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "source": "d2d685300c874371",
+      "publishedAt": "2026-11-20T17:30:13.000Z",
+      "cover": null
+    }
+  },
+  "wall": null
+}
