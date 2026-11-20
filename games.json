@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "Keenni 的小游戏",
+  "author": "Keenni",
+  "updatedAt": "2026-11-20T17:40:49.501Z",
+  "games": [
+    {
+      "slug": "game-studio-demo",
+      "title": "月光狐狸：灯笼岛",
+      "url": "game-studio-demo/",
+      "cover": "game-studio-demo/cover.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-20T17:40:49.501Z"
+    }
+  ],
+  "wall": null
+}

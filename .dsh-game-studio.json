@@ -3,13 +3,13 @@
   "version": 1,
   "games": {
     "game-studio-demo": {
-      "slug": "game-studio-demo",
       "title": "月光狐狸：灯笼岛",
+      "source": "d2d685300c874371",
+      "publishedAt": "2026-11-20T17:40:49.501Z",
+      "buildId": "7ec0a2143b67",
       "dimension": "2d",
       "orientation": "portrait",
-      "source": "d2d685300c874371",
-      "publishedAt": "2026-11-20T17:30:13.000Z",
-      "cover": null
+      "cover": "game-studio-demo/cover.jpg"
     }
   },
   "wall": null
